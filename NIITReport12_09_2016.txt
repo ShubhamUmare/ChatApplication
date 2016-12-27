@@ -1,0 +1,170 @@
+####################### Log Started :9/12/2016 3:04:00 PM####################### 
+BLOCK status   :Zero block started 
+Info  :
+Message :checking service is up
+####################### Log Ended   :9/12/2016 3:04:00 PM####################### 
+####################### Log Started :9/12/2016 3:04:00 PM####################### 
+BLOCK status   :Zero block completed 
+Info  :
+Message :checked service is up
+####################### Log Ended   :9/12/2016 3:04:00 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :First block started
+Info  :HDModel is:
+Message :Getting HDModel
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :First block completed
+Info  :HDModel is : WDC WD5000LPVX-75V0T SCSI Disk Device
+Message :Getted HDModel
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Second block started
+Info  :
+Message :Getting ram size and computer model
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Second block completed
+Info  :Ram size is: 4Computer model is: Inspiron 3521
+Message :Got ram size and computer model
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Third block started
+Info  :
+Message :Getting mother board no
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Third block complted
+Info  :Mother board No: .FPQND02.CN129663A30B4F.
+Message :Getting mother board no
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Fourth block started
+Info  :
+Message :Getting serial number
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Fourth block completed
+Info  :Serial No: FPQND02
+Message :Got serail No
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Fifth block started
+Info  :
+Message :Getting OS version
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :fifth block completed
+Info  :OS is: Windows 7 Ultimate
+Message :Got OS name
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Sixth block started
+Info  :
+Message :Getting Hardisk information
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Sixth block completed
+Info  :
+Message :Got Hardisk information
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Seventh block started
+Info  :
+Message :Getting Chassis information
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Seventh block completed
+Info  :ChassisType is:8
+Message :Getting Chassis information
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:01 PM####################### 
+BLOCK status   :Eight block started
+Info  : 
+Message :Getting BLOCK 8
+####################### Log Ended   :9/12/2016 3:04:01 PM####################### 
+####################### Log Started :9/12/2016 3:04:02 PM####################### 
+BLOCK status   :Eight block completed
+Info  :
+Message :Got BLOCK 8
+####################### Log Ended   :9/12/2016 3:04:02 PM####################### 
+####################### Log Started :9/12/2016 3:04:02 PM####################### 
+BLOCK status   :Ninth block started 
+Info  :
+Message :Getting BLOCK 9
+####################### Log Ended   :9/12/2016 3:04:02 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Ninth block completed 
+Info  :
+Message :Got BLOCK 9
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Tenth block started 
+Info  :
+Message :Getting WIFI MAC Id
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Tenth block completed 
+Info  :Wifi MAC Id is:485AB6854741
+Message :Got WIFI MAC Id
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Eleventh block started 
+Info  :
+Message :Getting OS Full Name
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Eleventh block completed 
+Info  :
+Message :Got  OS Full Name
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Twelevth block started 
+Info  :
+Message :Getting Framework
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Twelevth block completed 
+Info  :
+Message :Got Framework
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Thirteenth block started 
+Info  :
+Message :Getting Computer Name
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Thirteenth block completed 
+Info  :
+Message :Got Computer Name
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Fourteen block started 
+Info  :
+Message :Getting OS Architecture
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Fourteen block completed 
+Info  :
+Message :Got OS Architecture
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:03 PM####################### 
+BLOCK status   :Fifteen block started 
+Info  :
+Message :Creating all details in table
+####################### Log Ended   :9/12/2016 3:04:03 PM####################### 
+####################### Log Started :9/12/2016 3:04:04 PM####################### 
+BLOCK status   :Fifteen block completed 
+Info  :
+Message :Created All Details
+####################### Log Ended   :9/12/2016 3:04:04 PM####################### 
+####################### Log Started :9/12/2016 3:04:04 PM####################### 
+BLOCK status   :Sixteen block started 
+Info  :
+Message :Checking at server side
+####################### Log Ended   :9/12/2016 3:04:04 PM####################### 
+####################### Log Started :9/12/2016 3:04:05 PM####################### 
+BLOCK status   :Sixteen block completed 
+Info  :
+Message :checked at server side
+####################### Log Ended   :9/12/2016 3:04:05 PM####################### 
