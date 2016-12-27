@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Login Form</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+  @import url(http://fonts.googleapis.com/css?family=Vibur);
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family:arial;
+}
+
+h1 {
+  color:grey;
+  text-align: center;
+  font-family: 'Times new Roman', cursive;
+  font-size: 50px;
+}
+
+.login-form {
+  width: 350px;
+  padding: 40px 30px;
+  background: #ffd;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  margin: auto;
+  position: absolute;
+  left: 50%;
+  right: 0;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 30%;
+  height: 35px;
+  border: none;
+  padding: 5px 7px 5px 15px;
+  background: #fff;
+  color: #222;
+  border: 2px solid #aaa;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+.form-control:focus, .form-control:focus + .fa {
+  border-color: #08CEFF;
+  color: #10CE88;
+}
+
+.form-group .fa {
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  color: #999;
+}
+
+
+  
+  </style>
+</head>
+<body class="bg-success">
+<center>
+<div class="container-wrapper">
+    <div class="container">
+        
+        	<h1>Post New Job</h1>
+                        				
+             <div class="form-group">
+       <input type="text"  placeholder="Job Title" ng-model="job.jobTitle" required="required" class="form-control" >
+       
+     </div>
+     
+     <div class="form-group">
+     <textarea type="text"  placeholder="Job Discription" ng-model="job.jobDescription" required="required" class="form-control"></textarea>
+     
+     </div>
+      
+      <div class="form-group">
+     <input type="text"  placeholder="Skills Required" ng-model="job.skillsRequired" required="required" class="form-control">
+     <span class="glypicon glypicon-lock"></span>  
+     </div>
+     
+     
+     <div class="form-group">
+     <input type="text"  placeholder="Salary" ng-model="job.salary" required="required" class="form-control">
+     <span class="glypicon glypicon-lock"></span>  
+     </div>
+     
+     
+     <div class="form-group">
+     <input type="text"  placeholder="Location" ng-model="job.location" required="required" class="form-control">
+     <span class="glypicon glypicon-lock"></span>  
+     </div>
+    
+      <input type="submit" ng-click="saveJob()" value="Post Job" class="btn btn-success">
+     
+     
+            </form>
+        </div>
+    </div>
+</center>
+
+</body>
+
+</html>
